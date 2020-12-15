@@ -1,70 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Ruth Whaley 2025</title>
+    <title>Tags | Ruth Whaley, 2025</title>
     <link>https://RuthWhaley2025.github.io/tags/</link>
-    <description>Recent content in Tags on Ruth Whaley 2025</description>
-    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://RuthWhaley2025.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Source Themes</title>
-      <link>https://RuthWhaley2025.github.io/tags/source-themes/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://RuthWhaley2025.github.io/tags/source-themes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>https://RuthWhaley2025.github.io/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://RuthWhaley2025.github.io/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Demo</title>
-      <link>https://RuthWhaley2025.github.io/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://RuthWhaley2025.github.io/tags/demo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>human</title>
-      <link>https://RuthWhaley2025.github.io/tags/human/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://RuthWhaley2025.github.io/tags/human/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>robotics</title>
-      <link>https://RuthWhaley2025.github.io/tags/robotics/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://RuthWhaley2025.github.io/tags/robotics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>academia</title>
-      <link>https://RuthWhaley2025.github.io/tags/academia/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://RuthWhaley2025.github.io/tags/academia/</guid>
-      <description></description>
-    </item>
+      <atom:link href="https://RuthWhaley2025.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This website was created for college coaches to learn more about Ruth Whaley and stay informed of her progress. Please check for frequent updates.</copyright>
+    <image>
+      <url>https://RuthWhaley2025.github.io/images/icon_hu9944b8dca6244460c90a5683e2b7260d_1512_512x512_fill_lanczos_center_2.png</url>
+      <title>Tags</title>
+      <link>https://RuthWhaley2025.github.io/tags/</link>
+    </image>
     
   </channel>
 </rss>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Ruth Whaley, 2025</title>
-    <link>https://RuthWhaley2025.github.io/authors/</link>
-      <atom:link href="https://RuthWhaley2025.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
-    <description>Authors</description>
+    <title>Ruth Whaley | Ruth Whaley, 2025</title>
+    <link>https://RuthWhaley2025.github.io/author/ruth-whaley/</link>
+      <atom:link href="https://RuthWhaley2025.github.io/author/ruth-whaley/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ruth Whaley</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This website was created for college coaches to learn more about Ruth Whaley and stay informed of her progress. Please check for frequent updates.</copyright>
     <image>
       <url>https://RuthWhaley2025.github.io/images/icon_hu9944b8dca6244460c90a5683e2b7260d_1512_512x512_fill_lanczos_center_2.png</url>
-      <title>Authors</title>
-      <link>https://RuthWhaley2025.github.io/authors/</link>
+      <title>Ruth Whaley</title>
+      <link>https://RuthWhaley2025.github.io/author/ruth-whaley/</link>
     </image>
     
   </channel>
