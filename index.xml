@@ -1,80 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ruth Whaley 2025</title>
+    <title>Ruth Whaley, 2025</title>
     <link>https://RuthWhaley2025.github.io/</link>
-    <description>Recent content on Ruth Whaley 2025</description>
-    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://RuthWhaley2025.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://RuthWhaley2025.github.io/talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      
-      <guid>https://RuthWhaley2025.github.io/talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Courses</title>
-      <link>https://RuthWhaley2025.github.io/courses/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://RuthWhaley2025.github.io/courses/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>https://RuthWhaley2025.github.io/publication/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://RuthWhaley2025.github.io/publication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>https://RuthWhaley2025.github.io/post/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://RuthWhaley2025.github.io/post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Slides</title>
-      <link>https://RuthWhaley2025.github.io/slides/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://RuthWhaley2025.github.io/slides/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>https://RuthWhaley2025.github.io/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://RuthWhaley2025.github.io/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://RuthWhaley2025.github.io/project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://RuthWhaley2025.github.io/project/</guid>
-      <description></description>
-    </item>
+      <atom:link href="https://RuthWhaley2025.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ruth Whaley, 2025</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This website was created for college coaches to learn more about Ruth Whaley and stay informed of her progress. Please check for frequent updates.</copyright>
+    <image>
+      <url>https://RuthWhaley2025.github.io/images/icon_hu9944b8dca6244460c90a5683e2b7260d_1512_512x512_fill_lanczos_center_2.png</url>
+      <title>Ruth Whaley, 2025</title>
+      <link>https://RuthWhaley2025.github.io/</link>
+    </image>
     
   </channel>
 </rss>

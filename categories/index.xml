@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Ruth Whaley 2025</title>
+    <title>Categories | Ruth Whaley, 2025</title>
     <link>https://RuthWhaley2025.github.io/categories/</link>
-    <description>Recent content in Categories on Ruth Whaley 2025</description>
-    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>Copyright &amp;copy; {year}</copyright>
-    
-	    <atom:link href="https://RuthWhaley2025.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://RuthWhaley2025.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This website was created for college coaches to learn more about Ruth Whaley and stay informed of her progress. Please check for frequent updates.</copyright>
+    <image>
+      <url>https://RuthWhaley2025.github.io/images/icon_hu9944b8dca6244460c90a5683e2b7260d_1512_512x512_fill_lanczos_center_2.png</url>
+      <title>Categories</title>
+      <link>https://RuthWhaley2025.github.io/categories/</link>
+    </image>
     
   </channel>
 </rss>
